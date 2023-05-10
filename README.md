@@ -21,8 +21,6 @@ Keeper App is clone of google keep. This app is a web-based application that pro
 
 ### The challenge
 
-Users should be able to:
-
 - View the optimal layout for the interface depending on their device's screen size
 - Create and edit notes
 - Archive or delete notes to keep workspace clean and organized
